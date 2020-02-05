@@ -3,3 +3,6 @@
 - EDA设计软件：Cadence 16.6
 - MCU：STM32F103C8T6
 - 固件库：HAL库，软件STM32 CubeMX5.0以上版本
+- PCB Layout图片
+ 
+ ![PCB LAYOUT](Layout.png)
