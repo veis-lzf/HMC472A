@@ -1,0 +1,28 @@
+--cpu Cortex-M3
+"hmc472a_ctr\startup_stm32f103xb.o"
+"hmc472a_ctr\main.o"
+"hmc472a_ctr\gpio.o"
+"hmc472a_ctr\usart.o"
+"hmc472a_ctr\hmc472a.o"
+"hmc472a_ctr\key.o"
+"hmc472a_ctr\oled.o"
+"hmc472a_ctr\stm32f1xx_it.o"
+"hmc472a_ctr\stm32f1xx_hal_msp.o"
+"hmc472a_ctr\stm32f1xx_hal_gpio_ex.o"
+"hmc472a_ctr\stm32f1xx_hal_tim.o"
+"hmc472a_ctr\stm32f1xx_hal_tim_ex.o"
+"hmc472a_ctr\stm32f1xx_hal_uart.o"
+"hmc472a_ctr\stm32f1xx_hal.o"
+"hmc472a_ctr\stm32f1xx_hal_rcc.o"
+"hmc472a_ctr\stm32f1xx_hal_rcc_ex.o"
+"hmc472a_ctr\stm32f1xx_hal_gpio.o"
+"hmc472a_ctr\stm32f1xx_hal_dma.o"
+"hmc472a_ctr\stm32f1xx_hal_cortex.o"
+"hmc472a_ctr\stm32f1xx_hal_pwr.o"
+"hmc472a_ctr\stm32f1xx_hal_flash.o"
+"hmc472a_ctr\stm32f1xx_hal_flash_ex.o"
+"hmc472a_ctr\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "HMC472A_CTR\HMC472A_CTR.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "HMC472A_CTR.map" -o HMC472A_CTR\HMC472A_CTR.axf

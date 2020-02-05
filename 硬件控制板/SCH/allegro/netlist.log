@@ -1,0 +1,36 @@
+{ Using PSTWRITER 16.6.0 d001Mar-23-2019 at 13:37:43 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.11" ignored for U1: SCHEMATIC1, 01-MCU (33.02, 5.08). Connecting pin to net "OLED_D0".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.12" ignored for U1: SCHEMATIC1, 01-MCU (33.02, 5.08). Connecting pin to net "OLED_D1".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.14" ignored for U1: SCHEMATIC1, 01-MCU (33.02, 5.08). Connecting pin to net "OLED_DC".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.15" ignored for U1: SCHEMATIC1, 01-MCU (33.02, 5.08). Connecting pin to net "OLED_CS".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.13" ignored for U1: SCHEMATIC1, 01-MCU (33.02, 5.08). Connecting pin to net "OLED_RES".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.10" ignored for U1: SCHEMATIC1, 01-MCU (33.02, 5.08). Connecting pin to net "KEY1".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.17" ignored for U1: SCHEMATIC1, 01-MCU (33.02, 5.08). Connecting pin to net "KEY2".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.19" ignored for U1: SCHEMATIC1, 01-MCU (33.02, 5.08). Connecting pin to net "CTR4".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.40" ignored for U1: SCHEMATIC1, 01-MCU (33.02, 5.08). Connecting pin to net "CTR1".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.39" ignored for U1: SCHEMATIC1, 01-MCU (33.02, 5.08). Connecting pin to net "CTR2".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.18" ignored for U1: SCHEMATIC1, 01-MCU (33.02, 5.08). Connecting pin to net "CTR5".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.41" ignored for U1: SCHEMATIC1, 01-MCU (33.02, 5.08). Connecting pin to net "CTR0".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.20" ignored for U1: SCHEMATIC1, 01-MCU (33.02, 5.08). Connecting pin to net "CTR3".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.16" ignored for U1: SCHEMATIC1, 01-MCU (33.02, 5.08). Connecting pin to net "LED0".
+#15 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package BNC , BNC1: SCHEMATIC1, 01-MCU (177.80, 127.00).
+#16 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#3" as visible power pin of same name already exists in Package BNC , BNC1: SCHEMATIC1, 01-MCU (177.80, 127.00).
+#17 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package BNC , BNC1: SCHEMATIC1, 01-MCU (177.80, 127.00).
+#18 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#5" as visible power pin of same name already exists in Package BNC , BNC1: SCHEMATIC1, 01-MCU (177.80, 127.00).
+#19 WARNING(ORCAP-36006): Part Name "4 HEADER_1_25_PWT_4P_JLINK DEBUG" is renamed to "4 HEADER_1_25_PWT_4P_JLINK DEBU".
+#20 WARNING(ORCAP-36006): Part Name "HEADER 7X2_CON_2R54_2X7_HEADER 7X2" is renamed to "HEADER 7X2_CON_2R54_2X7_HEADER".
+#21 WARNING(ORCAP-36006): Part Name "SW PUSHBUTTON_BUTTON_2P_SMD_RESET" is renamed to "SW PUSHBUTTON_BUTTON_2P_SMD_RES".
+#22 WARNING(ORCAP-36006): Part Name "SW PUSHBUTTON_BUTTON_2P_SMD_DOWN" is renamed to "SW PUSHBUTTON_BUTTON_2P_SMD_DOW".
+#23 WARNING(ORCAP-36006): Part Name "STM32F103C8T6_0_LQFP-48_STM32F103C8T6" is renamed to "STM32F103C8T6_0_LQFP-48_STM32F1".
+#24 WARNING(ORCAP-36006): Part Name "AMS1117-3V3_0_SOT-223_AMS1117-3V3" is renamed to "AMS1117-3V3_0_SOT-223_AMS1117-3".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\HMC472+STM32F1\SCH\allegro/pstchip.dat
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\HMC472+STM32F1\SCH\allegro/pstchip.dat
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\HMC472+STM32F1\SCH\allegro/pstxprt.dat
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\HMC472+STM32F1\SCH\allegro/pstxnet.dat
+packaging the design view...
